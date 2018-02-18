@@ -1,7 +1,7 @@
 # Graph-Maze-Game
 This is a game built in `Java` using `Processing` Library.
 
-## Algorithm Used:
+## Algorithm and Data Structures Used:
 
 1. `Depth-First-Search` 
 2. `Queue`
